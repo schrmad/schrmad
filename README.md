@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @schrmad
-- [LinkedIn](www.linkedin.com/in/madeline-schroeder17/)
+
